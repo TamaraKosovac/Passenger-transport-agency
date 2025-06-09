@@ -1,5 +1,5 @@
-# PassengerTransportAgency
-## Description
+# 🚌 PassengerTransportAgency
+## 📝 Description
 University project in the form of a console application implemented in C++. Users of the system are regular users, drivers and administrator. Administrators manage accounts, define locations, buses and tours, create schedules and generate reports. Drivers review rides and fill out reports during rides, report problems and incidents with passengers. Regular users view upcoming rides and purchase tickets by entering payment information, with the ability to purchase multiple tickets at once. Ticket prices are calculated according to distance and additional baggage costs. The application uses the directories and files defined through the configuration file. User passwords must be changed after a certain number of logins, which is also defined in the configuration.
-## Reference to the detailed description
+## 📄 Reference to the detailed description
 Detailed description of the project can be found in the folder "Description".
